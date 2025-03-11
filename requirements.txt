@@ -1,0 +1,9 @@
+torch 
+transformers 
+llama-cpp-python 
+numpy 
+pandas 
+matplotlib 
+seaborn 
+wordcloud 
+scikit-learn 
